@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\aplikasiandroid\\Drawer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\news_menu.xml",
+        "source": "E:\\aplikasiandroid\\Drawer\\app\\src\\main\\res\\menu\\news_menu.xml"
+    },
+    {
+        "merged": "E:\\aplikasiandroid\\Drawer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\aplikasiandroid\\Drawer\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\aplikasiandroid\\Drawer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\unused.xml",
+        "source": "E:\\aplikasiandroid\\Drawer\\app\\src\\main\\res\\menu\\unused.xml"
+    },
+    {
+        "merged": "E:\\aplikasiandroid\\Drawer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
+        "source": "E:\\aplikasiandroid\\Drawer\\app\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "E:\\aplikasiandroid\\Drawer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\aplikasiandroid\\Drawer\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\aplikasiandroid\\Drawer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_search.xml",
+        "source": "E:\\aplikasiandroid\\Drawer\\app\\src\\main\\res\\menu\\menu_search.xml"
+    }
+]
